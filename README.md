@@ -18,7 +18,7 @@ Building practical experience across data analysis, data engineering and softwar
 
 ## Featured Projects
 
-### 🏠 [Madrid Housing Price Prediction](LINK-HERE)
+### 🏠 [Madrid Housing Price Prediction](https://github.com/CharlieSm49/madrid-housing-ml)
 
 **Python • Pandas • NumPy • scikit-learn • Jupyter**
 
