@@ -46,7 +46,7 @@ A data-driven recommender designed to rank Madrid neighbourhoods based on afford
 
 ---
 
-### 🔌 [Community Centre API](LINK-HERE)
+### 🔌 Community Centre API
 
 **Node.js • Express • MySQL • REST APIs**
 
@@ -59,7 +59,7 @@ REST API for managing supporters, bookings and time slots using a relational dat
 
 ---
 
-### 📱 [Doom-Scroll Ditcher](LINK-HERE)
+### 📱 Doom-Scroll Ditcher
 
 **Full-Stack Development • Git • APIs**
 
