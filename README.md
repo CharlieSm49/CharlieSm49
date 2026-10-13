@@ -57,6 +57,8 @@ REST API for managing supporters, bookings and time slots using a relational dat
 - Used appropriate HTTP status responses
 - Queried and updated structured data in MySQL
 
+> 🚧 Repository link coming soon
+
 ---
 
 ### 📱 Doom-Scroll Ditcher
@@ -70,6 +72,7 @@ Collaborative full-stack application developed in a six-person team.
 - Worked on debugging and API integration
 - Took part in regular stand-ups and collaborative problem-solving
 
+> 🚧 Repository link coming soon
 ---
 
 ## Technical Skills
